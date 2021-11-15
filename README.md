@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-FF5722?style=flat-square&logo=bloglovin&logoColor=white"/></a>
+<a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=flat-square&logo=bloglovin&logoColor=white"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCloud63514&show_icons=true&theme=radical)
