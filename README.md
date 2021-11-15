@@ -1,9 +1,9 @@
 # PCloud63514
 
 ## 활동
-<p align="center> 
- <a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=for-the-badge&logo=bloglovin&logoColor=white"/></a>
- <a href="https://github.com/DevGraft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=for-the-badgelogo=dev.to&logoColor=white"/></a>
+<p align="center"> 
+ <a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=plastic&logo=bloglovin&logoColor=white"/></a>
+ <a href="https://github.com/DevGraft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"/></a>
 <p>
 
  
