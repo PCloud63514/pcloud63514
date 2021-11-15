@@ -1,7 +1,7 @@
 # PCloud63514
 
 관심사
- - Spring Boot <img src="https://img.shields.io/badge/6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ - Spring Boot <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  - MSA Architecture
  - Hexagonal Architecture
  - Deep Learning
