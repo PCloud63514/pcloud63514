@@ -4,7 +4,6 @@
  <a href="https://github.com/DevGraft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"/></a>
 <p>
 
- 메리 크리스마스!
  
 [DevGraft](https://github.com/DevGraft/doc) 팀을 운영하고 있습니다.
  
