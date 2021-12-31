@@ -5,6 +5,7 @@
 <p>
 
 새해 복 많이 받으세요! 
+ 
 [DevGraft](https://github.com/DevGraft/doc) 팀을 운영하고 있습니다.
  
  - UI/UX 디자인 팀원 우선 모집 중 :tada:
