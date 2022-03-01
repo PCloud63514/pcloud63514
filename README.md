@@ -9,7 +9,6 @@
  
  - UI/UX 디자인 팀원 우선 모집 중 :tada:
  - 학생, 직장인 상관 없음
- - 한국사 관련 프로젝트 기획 중
 * 관심이 있으신 분은 devgraftteam@gmail.com으로 간략히 메일을 보내주세요! :satisfied:
  
  
