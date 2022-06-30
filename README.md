@@ -16,7 +16,7 @@
  - Spring Boot
  - MSA Architecture
  - Hexagonal Architecture
- - Deep Learning
+ - Pair Programming
  
 ## 통계
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCloud63514&show_icons=true&theme=aura_dark&include_all_commits=true)
