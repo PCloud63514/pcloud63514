@@ -4,21 +4,19 @@
  <a href="https://github.com/DevGraft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"/></a>
 <p>
 
- 
-[DevGraft](https://github.com/DevGraft/doc) 팀을 운영하고 있습니다.
- 
- - UI/UX 디자인 팀원 우선 모집 중 :tada:
- - 학생, 직장인 상관 없음
-* 관심이 있으신 분은 devgraftteam@gmail.com으로 간략히 메일을 보내주세요! :satisfied:
- 
- 
+ ## Carer
+
+
+
 ## 관심사
  - Spring Boot
  - MSA Architecture
  - Hexagonal Architecture
  - Pair Programming
  
-## 통계
+## Besides
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCloud63514&show_icons=true&theme=aura_dark&include_all_commits=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PCloud63514&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCloud63514&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
