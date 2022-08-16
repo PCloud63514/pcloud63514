@@ -4,7 +4,7 @@
  <a href="https://github.com/DevGraft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"/></a>
 <p>
 
- ## Carer
+ ## Career
 
 <>
 
