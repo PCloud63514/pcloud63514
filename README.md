@@ -1,10 +1,10 @@
-## 활동
+## 블로그∙팀
 <p align="center"> 
  <a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=plastic&logo=bloglovin&logoColor=white"/></a>
  <a href="https://github.com/DevGraft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"/></a>
 <p>
 
- ## Career
+ ## 활동∙경력
 
 <>
 
