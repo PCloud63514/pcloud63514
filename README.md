@@ -11,7 +11,7 @@
 ## 관심사
  - Spring Boot
  - Restful
- - OOP & SOLD
+ - OOP & SOLID
  - TDD & Pair Programming
  
 ## Besides
