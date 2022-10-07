@@ -5,10 +5,6 @@
  <a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"width="200px"/></a>
 <p>
 
- ## 활동∙경력
-
-<>
-
 ## 관심사
  - Spring Boot
  - Restful
