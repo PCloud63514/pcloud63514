@@ -5,15 +5,10 @@
 <p>
 
 ## 관심사
- - Spring Boot
- - Restful
- - OOP & SOLID
- - TDD & Pair Programming
  
 ## Besides
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCloud63514&show_icons=true&theme=aura_dark&include_all_commits=true)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PCloud63514&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
