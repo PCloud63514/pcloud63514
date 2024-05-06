@@ -5,7 +5,9 @@
 <p>
 
 ## 관심사
- 
+
+[켄트 백의 Tidy First?](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B5516661609)
+
 ## Besides
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCloud63514&show_icons=true&theme=aura_dark&include_all_commits=true)
