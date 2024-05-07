@@ -1,8 +1,15 @@
-## 블로그∙팀
-<p align="left"> 
- <a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=plastic&logo=bloglovin&logoColor=white" width="150px"/></a><br>
- <a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white"width="150px"/></a>
-<p>
+## 최근 작성한 포스트
+<a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=plastic&logo=bloglovin&logoColor=white" width="100px"/></a><br>
+- [광고 시스템 이해를 위한 기반 지식](https://pcloud.tistory.com/58)
+- [JWT와 세션 방식의 오해](https://pcloud.tistory.com/57)
+- [EventStorming을 도입하자!](https://pcloud.tistory.com/56)
+
+## 팀 최근 활동 내역
+<a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
+- 휴식기
+
+<a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/꿈일기-2023a?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
+- 47회차 스터디 (2024/05/05)
 
 ## 관심사
 
