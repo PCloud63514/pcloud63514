@@ -6,7 +6,7 @@
 
 ## 팀 최근 활동 내역
 <a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
-- 휴식기
+
 
 <a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/꿈일기-2023a?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
 - 47회차 스터디 (2024/05/05)
