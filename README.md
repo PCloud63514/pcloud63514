@@ -9,7 +9,6 @@
 
 
 <a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/꿈일기-2023a?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
-- 47회차 스터디 (2024/05/05)
 
 ## 관심사
 
