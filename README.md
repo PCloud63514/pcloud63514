@@ -1,5 +1,6 @@
 ## 최근 작성한 포스트
 <a href="https://pcloud.tistory.com/"><img src="https://img.shields.io/badge/Tstory-Blog-FF5722?style=plastic&logo=bloglovin&logoColor=white" width="100px"/></a><br>
+- [[Tidy First?] Part3 이론을 읽고 나서](https://pcloud.tistory.com/61)
 - [광고 시스템 이해를 위한 기반 지식](https://pcloud.tistory.com/58)
 - [JWT와 세션 방식의 오해](https://pcloud.tistory.com/57)
 - [EventStorming을 도입하자!](https://pcloud.tistory.com/56)
