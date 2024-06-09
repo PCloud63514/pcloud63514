@@ -12,7 +12,7 @@
 
 ## 관심사
 
-[켄트 백의 Tidy First?](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B5516661609)
+- [켄트 백의 Tidy First?](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B5516661609)
 
 ## Besides
  
