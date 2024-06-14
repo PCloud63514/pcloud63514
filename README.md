@@ -4,12 +4,6 @@
 - [JWT와 세션 방식의 오해](https://pcloud.tistory.com/57)
 - [EventStorming을 도입하자!](https://pcloud.tistory.com/56)
 
-## 팀 최근 활동 내역
-<a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/DevGraft-0A0A0A?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
-
-
-<a href="https://github.com/dev-graft"><img src="https://img.shields.io/badge/꿈일기-2023a?style=plastic&logo=dev.to&logoColor=white" width="100px"/></a><br>
-
 ## 관심사
 
 - [켄트 백의 Tidy First?](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B5516661609)
