@@ -8,6 +8,7 @@
 ## 관심사
 - [도메인 주도 개발 시작하기](https://product.kyobobook.co.kr/detail/S000001810495)
 - [켄트 백의 Tidy First?](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B5516661609)
+- [그로킹 동시성](https://product.kyobobook.co.kr/detail/S000214756541)
 
 ## Besides
  
