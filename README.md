@@ -7,7 +7,8 @@
 
 ## Open Source Contributions ([My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3APCloud63514))
 - **Apache Gravitino**
-  - [PR #7994](https://github.com/apache/gravitino/pull/7994)
+  - [fix: Improve ConfigEntry parsing of comma-separated configuration](https://github.com/apache/gravitino/pull/7994)
+  - [fix: correct CREATE TABLE SQL generation in SqliteTableOperations](https://github.com/apache/gravitino/pull/8105)
 ---
 
 ## Besides
