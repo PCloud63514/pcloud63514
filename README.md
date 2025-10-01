@@ -6,10 +6,8 @@
 ---
 
 ## Open Source Contributions ([My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3APCloud63514))
-- **Apache Gravitino**
-  - [fix: Improve ConfigEntry parsing of comma-separated configuration](https://github.com/apache/gravitino/pull/7994)
-  - [fix: correct CREATE TABLE SQL generation in SqliteTableOperations](https://github.com/apache/gravitino/pull/8105)
-  - [Improvement: Fix NPE in RandomNameUtils.genRandomName](https://github.com/apache/gravitino/issues/8299)
+- **[Apache Gravitino](https://github.com/apache/gravitino/issues?q=is%3Aissue%20assignee%3APCloud63514)**
+
 ---
 
 ## Besides
