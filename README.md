@@ -1,5 +1,5 @@
 ## About Me
-- 6년차 백엔드 개발자 (Java / Golang 주력)
+- 6년차 백엔드 개발자 (Java / Golang)
 - React, Android 개발도 함께 가능!
 - 협업, 문서화를 중요시하는 개발자
 
