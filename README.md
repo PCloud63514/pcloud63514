@@ -9,11 +9,6 @@
 - **[Apache Gravitino](https://github.com/apache/gravitino/issues?q=is%3Aissue%20assignee%3APCloud63514)**
 
 ---
-
-## Besides
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCloud63514&show_icons=true&theme=aura_dark&include_all_commits=true)
-
 ## 최근 작성한 포스트
 - [광고 도메인 이해](https://pcloud.tistory.com/74)
 - [[Tidy First?] Part3 이론을 읽고 나서](https://pcloud.tistory.com/61)
